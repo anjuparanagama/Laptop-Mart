@@ -22,10 +22,10 @@ export default function AboutUs() {
       <div className="mt-12 bg-green-100 p-8 rounded-lg shadow-lg">
         <h2 className="text-3xl font-bold mb-6 text-green-900">Contact Details</h2>
         <ul className="text-gray-700 space-y-3 text-lg">
-          <li><strong>Address:</strong> 123 Tech Avenue, Silicon City, CA 94000</li>
-          <li><strong>Phone:</strong> (123) 456-7890</li>
+          <li><strong>Address:</strong> No: 83, 1st Avenue, Pettah</li>
+          <li><strong>Phone:</strong> (+94) 71 23 45 678</li>
           <li><strong>Email:</strong> support@laptopmart.com</li>
-          <li><strong>Business Hours:</strong> Mon - Fri, 9:00 AM - 6:00 PM</li>
+          <li><strong>Business Hours:</strong> Mon - Fri, :00 AM - 8:00 PM</li>
         </ul>
       </div>
     </section>
